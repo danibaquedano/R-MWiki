@@ -1,0 +1,22 @@
+//MARK: CharacterView
+"characterView_title" = "CHARACTERS";
+"characterView_filters" = "Filters: ";
+
+//MARK: LocationsView
+"locationsView_title" = "LOCATIONS";
+
+//MARK: EpisodesView
+"episodesView_title" = "EPISODES";
+
+//MARK: NetworError
+"networkError_description_badRequest" = "Bad request";
+"networkError_description_badURL" = "Bad URL";
+"networkError_description_mappingToDTO" = "Decoding error";
+"networkError_description_others" = "Error";
+"networkError_suggestion_badRequest" = "No results found with this filter";
+"networkError_suggestion_badURL" = "Something went wrong with the URL";
+"networkError_suggestion_mappingToDTO" = "Something went wrong while decoding the response";
+"networkError_suggestion_others" = "Error";
+
+
+
